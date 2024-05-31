@@ -1,0 +1,1 @@
+var residuo = 5 % 4;

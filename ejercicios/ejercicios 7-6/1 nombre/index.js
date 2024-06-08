@@ -1,4 +1,7 @@
+
 function saludar(nombre = 'Desconocido') {
-  var nombre = prompt("Nombre:")
+  var nombre = prompt("Nombre:");
   console.log('Hola ' + nombre);
 }
+
+saludar();

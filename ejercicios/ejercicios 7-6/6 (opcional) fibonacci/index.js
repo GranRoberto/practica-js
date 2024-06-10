@@ -1,4 +1,4 @@
-function printFibonacciSequence(n) {
+function Fibonacci(n) {
 
   if (n <= 0) {
     throw new alert('Error: debe ser un numero positivo');
@@ -17,4 +17,4 @@ function printFibonacciSequence(n) {
   }
 }
 
-printFibonacciSequence(8);
+Fibonacci(3);

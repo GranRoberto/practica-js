@@ -19,4 +19,3 @@ function calcular(numero1, numero2) {
 }
 
 calcular();
-calcular();
